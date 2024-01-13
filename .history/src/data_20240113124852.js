@@ -4,8 +4,8 @@
 const { colors } = require('./theme');
 
 module.exports = {
-  user: 'nlemuel',
-  startedProgramming: '10/10/2020',
+  user: 'nick-gabe',
+  startedProgramming: '9/10/2020',
   repoQuantity: 6,
   header: {
     styles: {
@@ -18,17 +18,17 @@ module.exports = {
       src: 'src/resources/images/nickgabe.png',
       width: 600,
     },
-    description: "👋 Hello, World! I'm Nicolas Lemuel, a brazilian programmer.",
+    description: "👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.",
     badges: [
       {
         type: 'badge',
         name: 'twitter',
-        href: 'https://twitter.com/nlim_a',
+        href: 'https://twitter.com/imnickgabe',
       },
       {
         type: 'badge',
         name: 'linkedin',
-        href: 'https://www.linkedin.com/in/nicolas-de-lima-23137718b/',
+        href: 'https://linkedin.com/in/nickgabe',
       },
       {
         type: 'badge',
@@ -42,7 +42,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nicolas Lemuel, 24 years', '* Front-end programmer', '* Currently finishing college'],
+    list: ['* Nícolas Gabriel, 19 years', '* Full Stack programmer', '* Currently studying Python'],
   },
   skillswall: {
     styles: {
@@ -58,19 +58,41 @@ module.exports = {
       { name: 'Markdown' },
       { name: 'CSS3', isHighlighted: true },
       { name: 'Python' },
+      { name: 'Shell Script', logo: 'gnu-bash' },
       { name: 'React', isHighlighted: true },
+      { name: 'React Native', logo: 'react' },
+      { name: 'jQuery' },
+      { name: 'SASS' },
+      { name: 'Ant-Design', isHighlighted: true },
+      { name: 'GraphQL' },
+      { name: 'Chakra', logo: 'chakraui' },
       { name: 'Bootstrap' },
       { name: 'Node.JS', isHighlighted: true },
+      { name: 'Jest' },
+      { name: 'Strapi' },
+      { name: 'Express.js', logo: 'express' },
+      { name: 'FastAPI', isHighlighted: true },
+      { name: 'Flask' },
       { name: 'Styled Components' },
-      { name: 'SQL' },
+      { name: 'TailwindCSS', isHighlighted: true },
+      { name: 'Firebase' },
+      { name: 'MongoDB' },
       { name: 'SQLite' },
       { name: 'TypeScript', isHighlighted: true },
+      { name: 'Netlify' },
       { name: 'Vercel' },
+      { name: 'Heroku' },
+      { name: 'Github Pages', logo: 'github' },
+      { name: 'Photoshop', logo: 'adobe-photoshop' },
       { name: 'Figma' },
+      { name: 'Storybook' },
       { name: 'NPM' },
       { name: 'Git', isHighlighted: true },
       { name: 'GitHub' },
       { name: 'Visual Studio Code' },
+      { name: 'Docker', isHighlighted: true },
+      { name: 'Jira' },
+      { name: 'GitHub Actions', isHighlighted: true },
     ],
   },
   recentworks: {
@@ -92,19 +114,27 @@ module.exports = {
     links: [
       {
         name: 'twitter',
-        href: 'https://twitter.com/nlim_a',
+        href: 'https://twitter.com/imnickgabe',
       },
       {
         name: 'linkedin',
-        href: 'https://www.linkedin.com/in/nicolas-de-lima-23137718b/',
+        href: 'https://linkedin.com/in/nickgabe',
       },
       {
         name: 'email',
         logo: 'gmail',
-        href: 'mailto:lemuelayres@gmail.com',
+        href: 'mailto:nicolasgabrielctt@gmail.com',
       },
       {
-        name: 'nlemuel',
+        name: 'npm',
+        href: 'https://www.npmjs.com/~nick-gabe',
+      },
+      {
+        name: 'codepen',
+        href: 'https://codepen.io/nick-gabe',
+      },
+      {
+        name: 'imnickgabe',
         logo: 'discord',
         labelColor: colors.secondary.base,
       },
