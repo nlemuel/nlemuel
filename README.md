@@ -1,14 +1,14 @@
 
 <p align="center"><a href="https://twitter.com/nlim_a"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
 <a href="https://www.linkedin.com/in/nicolas-de-lima-23137718b/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://peactfolio-puce.vercel.app/"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 <img src="https://komarev.com/ghpvc/?username=nlemuel&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
 <p align="center">👋 Hello, World! I'm Nicolas Lemuel, a brazilian programmer.</p>
 
 ## **About me:**
 
 * Nicolas Lemuel, 24 years
-* Front-end programmer
+* Programmer
 * Currently finishing college
 * 3 Years, 2 Months and 3 Days since I started programming
 
