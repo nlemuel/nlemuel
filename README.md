@@ -7,7 +7,7 @@
 
 ## **About me:**
 
-* Nicolas Lemuel, 24 years
+* Nicolas Lemuel, 25 years
 * Programmer
 * Currently finishing college
 * 3 Years, 2 Months and 3 Days since I started programming
