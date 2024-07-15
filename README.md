@@ -9,7 +9,7 @@
 
 * Nicolas Lemuel, 25 years
 * Programmer
-* Currently finishing college
+* I have a degree in Systems Analysis and Development from FATEC 
 * 3 Years, 2 Months and 3 Days since I started programming
 
 ## **Skills wall:**
