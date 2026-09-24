@@ -7,7 +7,7 @@
 
 ## **About me:**
 
-* Nicolas Lemuel, 25 years
+* Nicolas Lemuel, 27 years
 * Programmer
 * I have a degree in Systems Analysis and Development from FATEC 
 * 3 Years, 2 Months and 3 Days since I started programming
